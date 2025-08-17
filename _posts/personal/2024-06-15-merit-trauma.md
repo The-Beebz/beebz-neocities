@@ -1,0 +1,11 @@
+---
+---
+Having a cathartic vent and cry to my friend on discord... pretty much everything my trauma boils down to is deserving, merit and earning. I underestimate how much people care about me, not because I'm dismissing them, but I inherently never thought I was worthy or deserved that level of love. If things aren't panning out for me- its because I'm not hustling hard enough and every time I watch anime or play videogames thats time I could be using for "making something of myself". Having to report to my stepfather and do x amount of chores before I could get my laptop. Having to clean the house for 6 hours straight on a Saturday before I had even a little bit of bread and butter, and then another 4 hours before a real meal. 
+
+And like I realized this while inpatient, that I HAD known and enforced effective self soothing techniques as a teenager, young adult. But the fucking problem was my mom would explode when I tried to use them and argued how it was easier for me to cope. Having to take a 5 minute break every 25 minutes? "RIDICULOUS. You think you can just do that in a job? Get your ass up." Trying to have a little snack every 3-5 hours so I dont want to binge? "No one needs to do that that's nonsense! If I let you do that shit you'd be 600lbs in a week!"
+
+She knew I would tell other people what she did to me...and gaslighted me about how I was lying to get sympathy. "I do everything for you!" 
+
+Feh, venting is nice because it gets all this out my mind and lets me not let it be distorted by the submissive child role I had back then...It IS fucked up, and just because it happened to a lot of people in my culture doesnt make it any less fucked up. Lots of fucked up shit has happened up until people were brave enough to say "Stop this shit" and with hindsight we're always horrified it was a debate in the first place. 
+
+I think other Hispanics who were abused can kinda relate to at least a few things on this front. We meme about la chancla but I know when I do its tongue in cheek and more hyperbole about me not putting up with someones shit especially when Vaggie's fronting lol. -Francois

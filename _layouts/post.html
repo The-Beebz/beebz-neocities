@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}z</title>
+    <link href="/assets/css/style.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body>
+    <div id="container">
+
+        <div id="headerArea">
+            <div id="header"><img src="/assets/images/header.png"></img></div>
+            <nav id="navbar" style="margin-bottom: 10px;">
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/intro">Intro</a></li>
+                    <li><a href="/blog">Blog</a></li>
+                    <li><a href="/favoriteArt">Artwork</a></li>
+                    <li><a href="/writing">Stories</a></li>
+                    <li><a href="/shrines">Shrines</a></li>
+                </ul>
+            </nav>
+        </div>
+        
+            <div id="flex">
+                
+                <main>
+                    {{ content }}
+                </main>
+
+			    <aside id="leftSidebar" style="margin-right: 10px;"><h2>Changelog:</h2>
+                    <div class="box">
+                        July 20th 2024<br>
+                        <br>
+                        - Started Website Overhaul to have more of a personal feel and less worried about capitalist focused "professionalism" or having a "portfolio".<br>
+                        <br>
+                        - Here to kick ass and code and my legs hurt.
+                    </div>
+			    </aside>
+
+                <aside id="rightSidebar" style="margin-left: 10px;"><h2>Aethy Feed</h2>
+                    <div>This is text again</div>
+			    </aside>
+
+            </div>
+	</div>
+
+    <footer id="footer" style="margin: 10px">The Beebz - 2024</footer>
+    
+</body>
+</html>

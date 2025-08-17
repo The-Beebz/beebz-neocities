@@ -1,0 +1,13 @@
+---
+---
+Sometimes on days like this I wish I could be back in the city to mourn the people we lost. Sometimes I feel as if I'm melodramatic for still being affected by it, even if no one I directly knew was injured by the event. The fact remains I was 5 when the cataclysmic moment happened and yet still remember that day and everyones fear that I could not yet comprehend.
+
+In the age of growing cyncism and ironic humor, 9/11 has been made a punchline for shock value, and even recently someone had the audacity to try to apply "curate your own experience" logic to me on a discord server when I mentioned that maybe someone making casual 9/11 jokes out of nowhere were a tad too far. It was an upsetting time because it was yet another experience of being shouted down just because... Idk they found it edgy and funny.
+
+But this isnt a post to even focus on those who turn it into fodder for a laugh. This is mostly to focus I guess on my processing of the event those years later. Because 9/11 wasnt just about the twin towers, it was about the people who lost their lives- it was about the islamophobia that followed and their lives lost too. It was about what radicalized fearful people, and those lives ruined. It was a terrible day where the solidarity was tense. And I still remember seeing the billows of smoke on TV, so thick that I didnt think it was real.
+
+Much like the way I took 9/11 when I was a kid, the aftereffects rocked everyone, and continues to. While I didnt understand the gravity of much as a child it only seems to sadden me more each year. In fact, I've actively been upset on years where I forgot the day and its significance. Not because of being beholden to the whole Never Forget thing blindly, but because it felt like another failure of my adhd to do something i personally wanted to commit to do. For my own spiritual reasons.
+
+I may not follow an organized religion, but I still have my own reasons and comforting answers to things, such as a belief in the afterlife, skepticism of hell (to which a Jewish friend joked that it was very jewish of me) and a strong belief in the idea of karma coming around both good and bad. 9/11 is a historical event that I'm a first person source for.
+
+It feels a lot like what Covid must feel like to some people. Where the world seems to have moved on but the damage has still been done, or keeps being done. Its never a good occasion when someone dies needlessly, tragic circumstances. And you dont have to cry for these words- the strength in them is all I need.
