@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 Nothing to see here just yet! 

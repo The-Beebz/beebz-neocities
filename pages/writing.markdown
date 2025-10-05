@@ -1,5 +1,5 @@
 ---
-permalink: /writing/
+permalink: /writing
 ---
 Nothing to see here just yet! 
 

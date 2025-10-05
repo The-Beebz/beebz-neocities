@@ -1,5 +1,5 @@
 ---
-permalink: /shrines/
+permalink: /shrines
 ---
 Nothing to see here just yet! 
 
